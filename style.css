@@ -19,3 +19,33 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+.cat1{
+    background-color: orange;
+}
+.cat2{
+    background-color: purple;
+}
+.cat3{
+    background-color:blue;
+
+}
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 15px;
+}
+.categories h1{
+    color: white;
+}
+.categories img{
+    width: 100px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+#subscribe{
+    height: 300px;
+}
+footer{
+    text-align: center;
+}
